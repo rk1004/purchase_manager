@@ -1,4 +1,4 @@
-# vue-todo
+# purchase_manager
 
 ## Project setup
 ```
